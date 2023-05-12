@@ -1,0 +1,15 @@
+.roots {
+    display: flex;
+}
+.left-block {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    background-color: chartreuse;
+}
+.right-block {
+    width: 100%;
+}
+.active {
+    background-color: rebeccapurple;
+}
